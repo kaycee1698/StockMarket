@@ -8,7 +8,7 @@ namespace StockMarket.Models
     {
         public long Id { get; set; }
         public int StockExchange { get; set; }
-        public int CurrentPrice { get; set; }
+        public decimal CurrentPrice { get; set; }
         public DateTime Date { get; set; }
         public DateTime Time { get; set; }
     }

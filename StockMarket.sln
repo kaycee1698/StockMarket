@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMarket.AdminService", "StockMarket.AdminService\StockMarket.AdminService.csproj", "{EDB6DFC3-F60B-4A90-B2CC-753FFCEA70F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockMarket.AdminService", "StockMarket.AdminService\StockMarket.AdminService.csproj", "{EDB6DFC3-F60B-4A90-B2CC-753FFCEA70F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMarket.Models", "StockMarket.Models\StockMarket.Models.csproj", "{EB28E409-930B-47B1-9F0C-AAD3C6F0DD21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockMarket.Models", "StockMarket.Models\StockMarket.Models.csproj", "{EB28E409-930B-47B1-9F0C-AAD3C6F0DD21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
